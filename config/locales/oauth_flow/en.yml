@@ -2,3 +2,4 @@ en:
   oauth_flow:
     title: Connect your GoCardless account
     subtitle: lol
+    sign_out: Sign out of your account
