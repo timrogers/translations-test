@@ -5,3 +5,7 @@ en:
     read_only: Read-only
     ham: ham
     onion: onion
+    friends:
+      zero: no friends
+      one: one friend
+      other: "%{count} friends"
